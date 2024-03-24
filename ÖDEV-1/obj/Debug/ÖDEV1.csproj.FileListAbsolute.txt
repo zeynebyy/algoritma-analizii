@@ -1,0 +1,6 @@
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\ÖDEV1\bin\Debug\ÖDEV1.exe.config
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\ÖDEV1\bin\Debug\ÖDEV1.exe
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\ÖDEV1\bin\Debug\ÖDEV1.pdb
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\ÖDEV1\obj\Debug\ÖDEV1.csprojResolveAssemblyReference.cache
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\ÖDEV1\obj\Debug\ÖDEV1.exe
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\ÖDEV1\obj\Debug\ÖDEV1.pdb
