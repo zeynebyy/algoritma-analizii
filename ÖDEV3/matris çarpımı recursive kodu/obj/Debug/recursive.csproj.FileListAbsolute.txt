@@ -1,0 +1,6 @@
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\recursive\bin\Debug\recursive.exe.config
+C:\Users\Zeyneb BAYRAM\onedrive\belgeler\visual studio 2015\Projects\recursive\bin\Debug\recursive.exe
+C:\Users\Zeyneb BAYRAM\onedrive\belgeler\visual studio 2015\Projects\recursive\bin\Debug\recursive.pdb
+C:\Users\Zeyneb BAYRAM\onedrive\belgeler\visual studio 2015\Projects\recursive\obj\Debug\recursive.csprojResolveAssemblyReference.cache
+C:\Users\Zeyneb BAYRAM\onedrive\belgeler\visual studio 2015\Projects\recursive\obj\Debug\recursive.exe
+C:\Users\Zeyneb BAYRAM\onedrive\belgeler\visual studio 2015\Projects\recursive\obj\Debug\recursive.pdb

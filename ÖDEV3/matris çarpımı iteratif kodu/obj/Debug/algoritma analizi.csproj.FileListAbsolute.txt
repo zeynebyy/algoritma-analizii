@@ -1,0 +1,6 @@
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\algoritma analizi\bin\Debug\algoritma analizi.exe.config
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\algoritma analizi\bin\Debug\algoritma analizi.exe
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\algoritma analizi\bin\Debug\algoritma analizi.pdb
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\algoritma analizi\obj\Debug\algoritma analizi.csprojResolveAssemblyReference.cache
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\algoritma analizi\obj\Debug\algoritma analizi.exe
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\algoritma analizi\obj\Debug\algoritma analizi.pdb
