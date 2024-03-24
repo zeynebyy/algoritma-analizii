@@ -1,0 +1,6 @@
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\faktöriyel_recursive\bin\Debug\faktöriyel_recursive.exe.config
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\faktöriyel_recursive\bin\Debug\faktöriyel_recursive.exe
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\faktöriyel_recursive\bin\Debug\faktöriyel_recursive.pdb
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\faktöriyel_recursive\obj\Debug\faktöriyel_recursive.csprojResolveAssemblyReference.cache
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\faktöriyel_recursive\obj\Debug\faktöriyel_recursive.exe
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\faktöriyel_recursive\obj\Debug\faktöriyel_recursive.pdb

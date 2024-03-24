@@ -1,0 +1,6 @@
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\fakröriyel_iteratif\bin\Debug\fakröriyel_iteratif.exe.config
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\fakröriyel_iteratif\bin\Debug\fakröriyel_iteratif.exe
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\fakröriyel_iteratif\bin\Debug\fakröriyel_iteratif.pdb
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\fakröriyel_iteratif\obj\Debug\fakröriyel_iteratif.csprojResolveAssemblyReference.cache
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\fakröriyel_iteratif\obj\Debug\fakröriyel_iteratif.exe
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\fakröriyel_iteratif\obj\Debug\fakröriyel_iteratif.pdb
