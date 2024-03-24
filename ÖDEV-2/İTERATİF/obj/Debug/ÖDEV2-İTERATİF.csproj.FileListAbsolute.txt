@@ -1,0 +1,6 @@
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\ÖDEV2-İTERATİF\bin\Debug\ÖDEV2-İTERATİF.exe.config
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\ÖDEV2-İTERATİF\bin\Debug\ÖDEV2-İTERATİF.exe
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\ÖDEV2-İTERATİF\bin\Debug\ÖDEV2-İTERATİF.pdb
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\ÖDEV2-İTERATİF\obj\Debug\ÖDEV2-İTERATİF.csprojResolveAssemblyReference.cache
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\ÖDEV2-İTERATİF\obj\Debug\ÖDEV2-İTERATİF.exe
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\ÖDEV2-İTERATİF\obj\Debug\ÖDEV2-İTERATİF.pdb
