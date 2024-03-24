@@ -1,0 +1,6 @@
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\kazançlı_algoritma\bin\Debug\kazançlı_algoritma.exe.config
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\kazançlı_algoritma\bin\Debug\kazançlı_algoritma.exe
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\kazançlı_algoritma\bin\Debug\kazançlı_algoritma.pdb
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\kazançlı_algoritma\obj\Debug\kazançlı_algoritma.csprojResolveAssemblyReference.cache
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\kazançlı_algoritma\obj\Debug\kazançlı_algoritma.exe
+c:\users\zeyneb bayram\onedrive\belgeler\visual studio 2015\Projects\kazançlı_algoritma\obj\Debug\kazançlı_algoritma.pdb
